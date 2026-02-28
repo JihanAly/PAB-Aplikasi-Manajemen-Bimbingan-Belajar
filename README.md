@@ -38,6 +38,7 @@ juga bertujuan untuk membantu pengelolaan data siswa bimbel secara lebih terstru
 
 ## Tampilan 
 
+### Halaman Utama
 <img width="1366" height="768" alt="Screenshot (715)" src="https://github.com/user-attachments/assets/30dcfbb3-2d94-4800-b13b-eb8220e4a0dc" />
 
 
@@ -50,6 +51,7 @@ juga bertujuan untuk membantu pengelolaan data siswa bimbel secara lebih terstru
 
 
 
+### Hapus Data
 <img width="1366" height="768" alt="Screenshot (718)" src="https://github.com/user-attachments/assets/15816424-ff18-4474-ab30-fc8814ed3f46" />
 
 
@@ -58,6 +60,7 @@ juga bertujuan untuk membantu pengelolaan data siswa bimbel secara lebih terstru
 
 
 
+### Tambah Data
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/12b2dbfa-4b63-4e94-8a96-671ffa01badb" />
 
 
@@ -66,11 +69,13 @@ juga bertujuan untuk membantu pengelolaan data siswa bimbel secara lebih terstru
 
 
 
+### Edit Data
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/332fef9d-f208-4cf6-82e4-ade2b6349a73" />
 
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3d578dff-f217-449f-90b4-bae29bd590a4" />
+
 
 
 
