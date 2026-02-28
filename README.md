@@ -1,11 +1,11 @@
 # 📚 Aplikasi Manajemen Bimbingan Belajar
-### Nama: Jihan Aly  
-### NIM: (Isi NIM Kamu)  
+### Nama: Jihan Alya Naflah
+### NIM:  2409116082
 
 
 ## Deskripsi Aplikasi
 Aplikasi ini merupakan aplikasi mobile menggunakan Flutter yang digunakan untuk mengelola data siswa pada bimbingan belajar.  
-Aplikasi ini memungkinkan admin untuk menambahkan, melihat, mengedit, dan menghapus data siswa dengan tampilan yang sederhana yang mudah digunakan,
+Aplikasi ini memungkinkan admin untuk menambahkan, melihat, mengedit, dan menghapus data siswa dengan tampilan sederhana yang mudah digunakan,
 juga bertujuan untuk membantu pengelolaan data siswa bimbel secara lebih terstruktur dan efisien.
 
 
@@ -75,6 +75,7 @@ juga bertujuan untuk membantu pengelolaan data siswa bimbel secara lebih terstru
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3d578dff-f217-449f-90b4-bae29bd590a4" />
+
 
 
 
